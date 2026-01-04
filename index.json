@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "base": "https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.0/",
+  "version": "main",
+  "base": "https://cdn.jsdelivr.net/gh/depravatiob/my-icons@main/",
   "icons": {
     "discord": "icons/png/discord.png",
     "line": "icons/png/line.png",
