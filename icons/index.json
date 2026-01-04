@@ -2,6 +2,10 @@
   "version": "1.0.0",
   "base": "https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.0/",
   "icons": {
-    "xxx": "icons/png/xxx.png"
+    "discord": "icons/png/discord.png",
+    "line": "icons/png/line.png",
+    "spotify": "icons/png/spotify.png",
+    "telegram": "icons/png/telegram.png",
+    "whatapp": "icons/png/whatapp.png"
   }
 }
