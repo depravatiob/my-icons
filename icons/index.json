@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "base": "https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.0/",
+  "icons": {
+    "xxx": "icons/png/xxx.png"
+  }
+}
