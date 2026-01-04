@@ -36,3 +36,11 @@ https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.2/icons/png/discord.png
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+## 维护/发布流程（新增或替换图标）
+1) 把新图标放到：icons/png/
+2) 更新根目录 index.json（添加/修改 icons 映射）
+3) 发一个新版本（tag/release），例如 v1.0.3
+4) 对外只提供带版本号的链接（不要用 main）：
+- index: https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.3/index.json
+- base:  https://cdn.jsdelivr.net/gh/depravatiob/my-icons@v1.0.3/
